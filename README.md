@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # goddessdivine27 
 
 ![Women In Tech](https://img.shields.io/badge/Women_In_Tech-pink?style=for-the-badge&logo=woman&logoColor=white)
