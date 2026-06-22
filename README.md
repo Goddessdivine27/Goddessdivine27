@@ -9,7 +9,7 @@ Focusing on networking architecture, cryptographic logic, and systems security. 
 - **Deep Dive:** Advanced Linux network administration, firewalls, and data encryption.
 
 ### Tech & Tools
-- **Languages:** Python, SQL, Rust, C++
+- **Languages:** HTML, Python, SQL, Rust, C++
 - **Security & Infrastructure:** Linux, Firewalls, Network Protocols
 - **Core Strengths:** Structural Logic, Cryptographic Analysis, Problem Solving
 
